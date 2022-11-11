@@ -1,0 +1,14 @@
+------ comment.data2 commentaire multiligne
+
+void mafonction() {
+
+/* ici
+
+je dois écrire le corps de ma fonction
+
+mais pour l'instant elle est vide
+
+*/
+
+}
+

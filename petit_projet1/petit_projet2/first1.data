@@ -1,0 +1,4 @@
+------ comment.data1 commentaire mono-ligne
+
+i = 5; /* initialisation au nombre d'objets */
+

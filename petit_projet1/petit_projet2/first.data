@@ -1,0 +1,15 @@
+int a;
+a = 0 ; 
+float b;
+b= 9.34 ;
+/* je suis ravis de faire flex
+for( i=0; i < 10; i++ ) {
+
+          truc[i] = 0;
+
+          machin  = 12.3;
+
+          bidule  = .0;
+
+        }
+

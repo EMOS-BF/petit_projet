@@ -1,0 +1,34 @@
+------ comment.data4 commentaires imbriqués
+
+void mafonction2 (){
+
+ /*
+
+  int i;
+
+  int j;
+
+
+
+  i = 3;  /* cette valeur est nickel */
+
+  j = 5; /* cette valeur 
+
+                  /* 3eme niveau 
+
+                     /* 4eme  */    
+
+                  */
+
+        est a revoir */
+
+
+
+  printf("afficher i\n");
+
+  printf("au revoir\n");
+
+ */
+
+}
+
